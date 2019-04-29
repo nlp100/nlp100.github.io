@@ -1,6 +1,80 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+title: "言語処理100本ノック 2019"
+brand: "言語処理100本ノック"
 
-layout: home
+menu:
+  - title: 第1章
+    href: "#ch01"
+  - title: 第2章
+    href: "#ch02"
+  - title: 第3章
+    href: "#ch03"
+  - title: 第4章
+    href: "#ch04"
+  - title: 第5章
+    href: "#ch05"
+
+summary: "言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
+
+features:
+  - 実用的でワクワクするような題材を厳選しました．
+  - 言語処理に加えて，統計や機械学習などの周辺分野にも親しめます．
+  - 研究やデータ分析の進め方，作法，スキルを修得できます．
+  - 問題を解くのに必要なデータ・コーパスを配布しています．
+  - 言語はPythonを想定していますが，他の言語にも対応しています．
+
+carousel:
+  - url: assets/image/vsm.png
+    alt: "vsm"
+  - url: assets/image/country.png
+    alt: "country"
+  - url: assets/image/sentiment.png
+    alt: "sentiment"
+  - url: assets/image/zipf.png
+    alt: "zipf"
+  - url: assets/image/neko.png
+    alt: "neko"
+
+cards:
+  - title: "第1章: 準備運動"
+    summary: "テキストや文字列を扱う題材に取り組みながら，プログラミング言語のやや高度なトピックを復習します．"
+    keywords: "文字列, ユニコード, リスト型, 辞書型, 集合型, イテレータ, スライス, 乱数"
+  - title: "第2章: UNIXコマンドの基礎"
+    summary: "研究やデータ分析において便利なUNIXツールを体験します．これらの再実装を通じて，プログラミング能力を高めつつ，既存のツールのエコシステムを体感します．"
+    keywords: "head, tail, cut, paste, split, sort, uniq, sed, tr, expand"
+  - title: "第3章: 正規表現"
+    summary: "Wikipediaのページのマークアップ記述に正規表現を適用することで，様々な情報・知識を取り出します．"
+    keywords: "正規表現, JSON, Wikipedia, InfoBox, ウェブサービス"
+  - title: "第4章: 形態素解析"
+    summary: "夏目漱石の小説『吾輩は猫である』に形態素解析器MeCabを適用し，小説中の単語の統計を求めます．"
+    keywords: "形態素解析, MeCab, 品詞, 出現頻度, Zipfの法則, matplotlib, Gnuplot"
+  - title: "第5章: 係り受け解析"
+    summary: "『吾輩は猫である』に係り受け解析器CaboChaを適用し，係り受け木の操作と統語的な分析を体験します．"
+    keywords: "クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz"
+  - title: "第6章: 機械学習"
+    summary: "文書分類器を機械学習で構築します．さらに，機械学習手法の評価方法を学びます．"
+    keywords: "文書分類, トークン化, 機械学習, 素性, ロジスティック回帰, 交差検定, 適合率, 再現率, scikit-learn"
+  - title: "第7章: 単語ベクトル"
+    summary: "単語の意味を表すベクトルを学習し，正解データを用いて評価します．さらに，クラスタリングやベクトルの可視化を体験します．"
+    keywords: "word2vec, コサイン類似度, 単語アナロジー, k-meansクラスタリング, 階層型クラスタリング, t-SNE"
+  - title: "第8章: 深層学習フレームワーク"
+    summary: "深層学習フレームワークによる機械学習．"
+    keywords: ""
+  - title: "第9章: 構造データ"
+    summary: ""
+    keywords: ""
+  - title: "第10章: エンコーダ・デコーダ"
+    summary: ""
+    keywords: ""
 ---
+
+{% include jumbotron.html %}
+
+{% include cards.html %}
+
+{% include chapter.html id="ch01" src="chapters/ch01.jp.md" %}
+{% include chapter.html id="ch02" src="chapters/ch02.jp.md" %}
+{% include chapter.html id="ch03" src="chapters/ch03.jp.md" %}
+{% include chapter.html id="ch04" src="chapters/ch04.jp.md" %}
+{% include chapter.html id="ch05" src="chapters/ch05.jp.md" %}

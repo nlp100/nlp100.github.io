@@ -1,0 +1,5 @@
+{% capture my_include %}{% include {{ include.src }} %}{% endcapture %}
+{% assign contents = my_include %}
+<section id="{{ include.id }}" class="bs-docs-section">
+{{ contents | markdownify }}
+</section>
