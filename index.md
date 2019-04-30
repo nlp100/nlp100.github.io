@@ -16,6 +16,8 @@ menu:
     href: "#ch05"
   - title: 第6章
     href: "#ch06"
+  - title: 第7章
+    href: "#ch07"
 
 summary: "言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
 
@@ -54,12 +56,12 @@ cards:
   - title: "第5章: 係り受け解析"
     summary: "『吾輩は猫である』に係り受け解析器CaboChaを適用し，係り受け木の操作と統語的な分析を体験します．"
     keywords: "クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz"
-  - title: "第6章: 機械学習"
+  - title: "第6章: 機械学習の基礎"
     summary: "文書分類器を機械学習で構築します．さらに，機械学習手法の評価方法を学びます．"
     keywords: "文書分類, トークン化, 機械学習, 特徴量, ロジスティック回帰, 正解率, 適合率, 再現率, F1スコア, 混同行列，交差検定, 正則化, scikit-learn"
   - title: "第7章: 単語ベクトル"
-    summary: "単語の意味を表すベクトルを学習し，正解データを用いて評価します．さらに，クラスタリングやベクトルの可視化を体験します．"
-    keywords: "word2vec, コサイン類似度, 単語アナロジー, k-meansクラスタリング, 階層型クラスタリング, t-SNE"
+    summary: "単語の類似度計算や単語アナロジーなどを通して，単語ベクトルの取り扱いを修得します．さらに，クラスタリングやベクトルの可視化を体験します．"
+    keywords: "word2vec, コサイン類似度, 加法構成性, 単語アナロジー, k-meansクラスタリング, 階層型クラスタリング, t-SNE"
   - title: "第8章: 深層学習フレームワーク"
     summary: "深層学習フレームワークによる機械学習．"
     keywords: ""
@@ -81,3 +83,4 @@ cards:
 {% include chapter.html id="ch04" src="chapters/ch04.ja.md" %}
 {% include chapter.html id="ch05" src="chapters/ch05.ja.md" %}
 {% include chapter.html id="ch06" src="chapters/ch06.ja.md" %}
+{% include chapter.html id="ch07" src="chapters/ch07.ja.md" %}
