@@ -14,6 +14,8 @@ menu:
     href: "#ch04"
   - title: 第5章
     href: "#ch05"
+  - title: 第6章
+    href: "#ch06"
 
 summary: "言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
 
@@ -54,7 +56,7 @@ cards:
     keywords: "クラス, 係り受け解析, CaboCha, 文節, 係り受け, 格, 機能動詞構文, 係り受けパス, Graphviz"
   - title: "第6章: 機械学習"
     summary: "文書分類器を機械学習で構築します．さらに，機械学習手法の評価方法を学びます．"
-    keywords: "文書分類, トークン化, 機械学習, 素性, ロジスティック回帰, 交差検定, 適合率, 再現率, scikit-learn"
+    keywords: "文書分類, トークン化, 機械学習, 特徴量, ロジスティック回帰, 正解率, 適合率, 再現率, F1スコア, 混同行列，交差検定, 正則化, scikit-learn"
   - title: "第7章: 単語ベクトル"
     summary: "単語の意味を表すベクトルを学習し，正解データを用いて評価します．さらに，クラスタリングやベクトルの可視化を体験します．"
     keywords: "word2vec, コサイン類似度, 単語アナロジー, k-meansクラスタリング, 階層型クラスタリング, t-SNE"
@@ -73,8 +75,9 @@ cards:
 
 {% include cards.html %}
 
-{% include chapter.html id="ch01" src="chapters/ch01.jp.md" %}
-{% include chapter.html id="ch02" src="chapters/ch02.jp.md" %}
-{% include chapter.html id="ch03" src="chapters/ch03.jp.md" %}
-{% include chapter.html id="ch04" src="chapters/ch04.jp.md" %}
-{% include chapter.html id="ch05" src="chapters/ch05.jp.md" %}
+{% include chapter.html id="ch01" src="chapters/ch01.ja.md" %}
+{% include chapter.html id="ch02" src="chapters/ch02.ja.md" %}
+{% include chapter.html id="ch03" src="chapters/ch03.ja.md" %}
+{% include chapter.html id="ch04" src="chapters/ch04.ja.md" %}
+{% include chapter.html id="ch05" src="chapters/ch05.ja.md" %}
+{% include chapter.html id="ch06" src="chapters/ch06.ja.md" %}
