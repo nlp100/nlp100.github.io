@@ -20,6 +20,8 @@ menu:
     href: "#ch07"
   - title: 第8章
     href: "#ch08"
+  - title: 第9章
+    href: "#ch09"
 
 summary: "言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
 
@@ -67,9 +69,9 @@ cards:
   - title: "第8章: ニューラルネットワーク"
     summary: "ニューラルネットワークを深層学習プラットフォームを用いて実装に基づくの実装を習得します．"
     keywords: "単層ニューラルネットワーク, 多層ニューラルネットワーク, 活性化関数, ソフトマックス関数, 損失関数, 確率的勾配降下法, ミニバッチ学習, GPU, チェックポイント"
-  - title: "第9章: 構造データ"
+  - title: "第9章: 深層ニューラルネット"
     summary: ""
-    keywords: ""
+    keywords: "RNN, LSTM, GRU, 双方向, 多層"
   - title: "第10章: エンコーダ・デコーダ"
     summary: ""
     keywords: ""
@@ -87,3 +89,4 @@ cards:
 {% include chapter.html id="ch06" src="chapters/ch06.ja.md" %}
 {% include chapter.html id="ch07" src="chapters/ch07.ja.md" %}
 {% include chapter.html id="ch08" src="chapters/ch08.ja.md" %}
+{% include chapter.html id="ch09" src="chapters/ch09.ja.md" %}
