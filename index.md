@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "言語処理100本ノック 2019"
+title: "言語処理100本ノック 2020"
 brand: "言語処理100本ノック"
 
 menu:
