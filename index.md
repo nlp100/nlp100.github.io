@@ -22,6 +22,8 @@ menu:
     href: "#ch08"
   - title: 第9章
     href: "#ch09"
+  - title: 第10章
+    href: "#ch10"
 
 summary: "言語処理100本ノックは，実践的な課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
 
@@ -90,3 +92,4 @@ cards:
 {% include chapter.html id="ch07" src="chapters/ch07.ja.md" %}
 {% include chapter.html id="ch08" src="chapters/ch08.ja.md" %}
 {% include chapter.html id="ch09" src="chapters/ch09.ja.md" %}
+{% include chapter.html id="ch10" src="chapters/ch10.ja.md" %}
