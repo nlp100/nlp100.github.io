@@ -1,4 +1,5 @@
 {% capture logo_path %}{{ site.logo }}{% endcapture %}
+{% capture lang %}{{ page.lang }}{% endcapture %}
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -8,7 +9,7 @@
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
-          {{ site.masthead_title | default: site.title }}
+          {{ site.data.navigation.titles[lang].title | default: site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
         </a>
         <ul class="visible-links">
@@ -17,6 +18,11 @@
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
             </li>
           {%- endfor -%}
+          {%- for link in site.data.navigation.languages -%}
+            <li class="masthead__menu-item">
+              <a href="{{ page.url | relative_url | replace_first: lang, link.id }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+            </li>
+        {%- endfor -%}
         </ul>
         {% if site.search == true %}
         <button class="search__toggle" type="button">
