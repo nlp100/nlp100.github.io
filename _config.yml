@@ -172,6 +172,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - minimal-mistakes-jekyll.gemspec
 keep_files:
   - .git
   - .svn
