@@ -1,12 +1,59 @@
-# main links
-main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+titles:
+  en:
+    title: "NLP 100 Exercise"
+  ja:
+    title: "言語処理100本ノック"
+
+languages:
+  - id: "en"
+    title: "English"
+  - id: "ja"
+    title: "日本語"
+
+
+sidebar_ja:
+  - title: "第1章: 準備運動"
+    url: /ja/ch01.html
+  - title: "第2章: UNIXコマンド"
+    url: /ja/ch02.html
+  - title: "第3章: 正規表現"
+    url: /ja/ch03.html
+  - title: "第4章: 形態素解析"
+    url: /ja/ch04.html
+  - title: "第5章: 係り受け解析"
+    url: /ja/ch05.html
+  - title: "第6章: 機械学習"
+    url: /ja/ch06.html
+  - title: "第7章: 単語ベクトル"
+    url: /ja/ch07.html
+  - title: "第8章: ニューラルネット"
+    url: /ja/ch08.html
+  - title: "第9章: RNN,CNN"
+    url: /ja/ch09.html
+  - title: "第10章: 機械翻訳"
+    url: /ja/ch10.html
+  - title: "言語処理100本ノックについて"
+    url: /ja/about.html
+
+sidebar_en:
+  - title: "Ch 1: Warm-up"
+    url: /en/ch01.html
+  - title: "Ch 2: UNIX commands"
+    url: /en/ch02.html
+  - title: "Ch 3: Regular Expression"
+    url: /en/ch03.html
+  - title: "Ch 4: POS tagging"
+    url: /en/ch04.html
+  - title: "Ch 5: Syntactic parsing"
+    url: /en/ch05.html
+  - title: "Ch 6: Machine learning"
+    url: /en/ch06.html
+  - title: "Ch 7: Word embeddings"
+    url: /en/ch07.html
+  - title: "Ch 8: Neural networks"
+    url: /en/ch08.html
+  - title: "Ch 9: RNN and CNN"
+    url: /en/ch09.html
+  - title: "Ch 10: Machine translation"
+    url: /en/ch10.html

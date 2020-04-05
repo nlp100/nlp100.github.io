@@ -1,4 +1,16 @@
----
-layout: home
-author_profile: true
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>NLP 100 language redirector</title>
+</head>
+<body>
+<script>
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang.indexOf('ja') == 0)
+        window.location = 'ja/';
+    else
+        window.location = 'en/';
+</script>
+</body>
+</html>
