@@ -15,12 +15,14 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ja-JP"
+locale                   : "en-US"
 title                    : "NLP100 2020"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Naoaki Okazaki"
+description:
+  ja                     : "言語処理100本ノックは，実用的でワクワクするような課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
+  en                     : "NLP 100 Exercise is a workbook designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments."
 url                      : "https://nlp100.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,7 +95,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Naoaki Okazaki"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -283,4 +285,4 @@ defaults:
       related: true
 
 after_footer_scripts:
-  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML

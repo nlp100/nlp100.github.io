@@ -20,7 +20,11 @@
   {%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
 {% endif %}
 
-{%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
+{% if page.lang == 'ja' %}
+  {%- assign seo_description = page.description | default: page.excerpt | default: site.description.ja -%}
+{% else %}
+  {%- assign seo_description = page.description | default: page.excerpt | default: site.description.en -%}
+{% endif %}
 {%- if seo_description -%}
   {%- assign seo_description = seo_description | markdownify | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | escape_once -%}
 {%- endif -%}
@@ -55,7 +59,11 @@
 {% endif %}
 
 <meta property="og:type" content="{{ og_type }}">
-<meta property="og:locale" content="{{ site.locale | replace: "-", "_" | default: "en_US" }}">
+{% if page.lang == 'ja' %}
+<meta property="og:locale" content="ja_JP">
+{% else %}
+<meta property="og:locale" content="en_US">
+{% endif %}
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
 <meta property="og:url" content="{{ canonical_url }}">
