@@ -75,7 +75,7 @@ twitter:
   username               : "@chokkanorg"
 facebook:
   username               :
-  app_id                 :
+  app_id                 : "nlp100.github.io"
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
