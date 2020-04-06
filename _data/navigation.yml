@@ -45,17 +45,17 @@ sidebar_en:
     url: /en/ch03.html
   - title: "Ch 4: POS tagging"
     url: /en/ch04.html
-  - title: "Ch 5: Syntactic parsing"
-    url: /en/ch05.html
-  - title: "Ch 6: Machine learning"
-    url: /en/ch06.html
-  - title: "Ch 7: Word embeddings"
-    url: /en/ch07.html
-  - title: "Ch 8: Neural networks"
-    url: /en/ch08.html
-  - title: "Ch 9: RNN and CNN"
-    url: /en/ch09.html
-  - title: "Ch 10: Machine translation"
-    url: /en/ch10.html
+#  - title: "Ch 5: Syntactic parsing"
+#    url: /en/ch05.html
+#  - title: "Ch 6: Machine learning"
+#    url: /en/ch06.html
+#  - title: "Ch 7: Word embeddings"
+#    url: /en/ch07.html
+#  - title: "Ch 8: Neural networks"
+#    url: /en/ch08.html
+#  - title: "Ch 9: RNN and CNN"
+#    url: /en/ch09.html
+#  - title: "Ch 10: Machine translation"
+#    url: /en/ch10.html
   - title: "About NLP 100 Exercise"
     url: /en/about.html
