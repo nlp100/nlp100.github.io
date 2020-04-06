@@ -176,6 +176,7 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - minimal-mistakes-jekyll.gemspec
   - /tools
+  - /assets/source
 keep_files:
   - .git
   - .svn
