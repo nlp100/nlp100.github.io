@@ -1,11 +1,12 @@
 ---
 title: "言語処理100本ノック 2020"
 lang: ja
-date: 2020-04-06 09:14:54 UTC
+date: 2020-04-06 22:12:14 UTC
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
+  og_image: /assets/images/nlp100.png
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
 excerpt: "言語処理100本ノックは，実用的でワクワクするような課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です．"
 button_html: |
