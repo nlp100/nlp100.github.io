@@ -1,7 +1,7 @@
 ---
 title: "NLP 100 Exercise 2020"
 lang: en
-date: 2020-03-11T15:00:00+09:00
+date: 2020-04-06 09:14:54 UTC
 layout: splash
 header:
   overlay_color: "#000"
@@ -34,6 +34,8 @@ script_html: |
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=535222267422576&autoLogAppEvents=1"></script>
 
+intro: 
+  - excerpt: '**Currently, we completed translations for Problems 01 to 39. We will upload Problems 40 to 99 when translations are ready.**'
 feature_row:
   - image_path: assets/images/ch01.png
     alt: "placeholder image 1"
@@ -87,4 +89,8 @@ feature_row:
     url: "/en/ch10.html"
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 {% include feature_row %}
+
+<p class="text-center"><a href="about.html" class="btn btn--primary">About NLP 100 Exercise</a></p>
