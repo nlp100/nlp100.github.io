@@ -1,6 +1,6 @@
 ---
 title: "言語処理100本ノックについて"
-date: 2020-04-06 09:05:42 UTC
+date: 2020-04-06 10:34:07 UTC
 layout: single
 toc: true
 lang: ja
@@ -36,8 +36,8 @@ sidebar: {nav: "sidebar_ja"}
 + 東北大学の[乾・岡崎研究室（当時）](http://www.cl.ecei.tohoku.ac.jp/)の新人研修の一つであるプログラミング基礎勉強会での利用を想定して作られました
 + 言語処理研究を目指す学生が100問のプログラミング課題を解くという方式は，もともと[名古屋大学の佐藤理史先生](https://sites.google.com/site/sslabnagoya/)の研究室で行われていたものです
 + 「100本ノック」という名前は，乾・岡崎研究室に在籍していた杉浦純さんが付けました
-+ 2020年版の問題の改定に際して，東北大学乾・鈴木研究室の清野舜さんに協力して頂きました
++ 2020年版の問題の改定に際して，東北大学乾・鈴木研究室の[清野舜](https://butsugiri.github.io/)さんに問題の構想と校閲，[横井祥](http://www.cl.ecei.tohoku.ac.jp/~yokoi/)さんと[高橋諒](https://reiyw.com/)に問題の構想に関して協力して頂きました
 
 ## 連絡先
 
-フィードバックや助言は、[GitHub](https://github.com/nlp100/nlp100.github.io)レポジトリの[issues](https://github.com/nlp100/nlp100.github.io/issues)や[pull requests](https://github.com/nlp100/nlp100.github.io/pulls)にお寄せ頂けますと助かります。それ以外のお問い合わせについては、`okazaki` at `c` dot `titech` dot `ac` dot `jp`までメールでご連絡ください。
+フィードバックや助言は、[GitHub](https://github.com/nlp100/nlp100.github.io)レポジトリの[issues](https://github.com/nlp100/nlp100.github.io/issues)や[pull requests](https://github.com/nlp100/nlp100.github.io/pulls)にお寄せ頂けますと助かります．それ以外のお問い合わせについては，`nlp100` at `nlp.c.titech.ac.jp`までメールでご連絡ください．

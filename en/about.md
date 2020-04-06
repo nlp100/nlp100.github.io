@@ -1,6 +1,6 @@
 ---
 title: "About NLP 100 Exercise"
-date: 2020-04-06 08:10:19 UTC
+date: 2020-04-06 10:34:06 UTC
 layout: single
 toc: true
 lang: en
@@ -32,11 +32,11 @@ sidebar: {nav: "sidebar_en"}
 
 ## About NLP 100 Exercise
 
-+ NLP 100 Exercise was developped by Naoaki Okazaki in 2011-2012 for the use in a study group for programming in [Inui-Okazaki Laboratory](http://www.cl.ecei.tohoku.ac.jp/) (currently, [Inui-Suzuki Laboratory](https://www.nlp.ecei.tohoku.ac.jp/).
++ NLP 100 Exercise was developped by Naoaki Okazaki in 2011-2012 for the use in a study group for programming in [Inui-Okazaki Laboratory](http://www.cl.ecei.tohoku.ac.jp/) (currently, [Inui-Suzuki Laboratory](https://www.nlp.ecei.tohoku.ac.jp/)).
 + The format where new students for studying NLP solve 100 assignments was inspired by the practice in the laboratory of [Prof Satoshi Sato](https://sites.google.com/site/sslabnagoya/), Nagoya University.
-+ Many thanks go to Shun Kiyono (Tohoku University) for suggestions in developping NLP 100 Exercise 2020.
++ Many thanks go to [Shun Kiyono](https://butsugiri.github.io/) (Tohoku University) for suggestions and revisions, and [Sho Yokoi](http://www.cl.ecei.tohoku.ac.jp/~yokoi/) (Tohoku University) and [Ryo Takahashi](https://reiyw.com/) (Tohoku University) for suggestions in developping NLP 100 Exercise 2020.
 
 ## Contact
 
 We welcome feedback/suggestions as [issues](https://github.com/nlp100/nlp100.github.io/issues) and [pull requests](https://github.com/nlp100/nlp100.github.io/pulls) in the [GitHub](https://github.com/nlp100/nlp100.github.io) repository.
-If you would like to contact us about a matter aside from feedback/suggestions, please send an email to `okazaki` at `c` dot `titech` dot `ac` dot `jp`.
+If you would like to contact us about a matter aside from feedback/suggestions, please send an email to `nlp100` at `nlp.c.titech.ac.jp`.
