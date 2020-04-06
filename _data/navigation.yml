@@ -57,3 +57,5 @@ sidebar_en:
     url: /en/ch09.html
   - title: "Ch 10: Machine translation"
     url: /en/ch10.html
+  - title: "About NLP 100 Exercise"
+    url: /en/about.html
