@@ -1,14 +1,14 @@
 ---
 title: "NLP 100 Exercise 2020"
 lang: en
-date: 2020-04-06 22:41:28 UTC
+date: 2020-04-06 23:00:57 UTC
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   og_image: /assets/images/nlp100.jpg
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
-excerpt: "NLP 100 Exercise is a workbook designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments."
+excerpt: "NLP 100 Exercise is a bootcamp designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments."
 button_html: |
   <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
