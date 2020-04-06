@@ -1,6 +1,6 @@
 ---
 title: "言語処理100本ノックについて"
-date: 2020-04-06 10:34:07 UTC
+date: 2020-04-06 10:37:09 UTC
 layout: single
 toc: true
 lang: ja
@@ -36,7 +36,7 @@ sidebar: {nav: "sidebar_ja"}
 + 東北大学の[乾・岡崎研究室（当時）](http://www.cl.ecei.tohoku.ac.jp/)の新人研修の一つであるプログラミング基礎勉強会での利用を想定して作られました
 + 言語処理研究を目指す学生が100問のプログラミング課題を解くという方式は，もともと[名古屋大学の佐藤理史先生](https://sites.google.com/site/sslabnagoya/)の研究室で行われていたものです
 + 「100本ノック」という名前は，乾・岡崎研究室に在籍していた杉浦純さんが付けました
-+ 2020年版の問題の改定に際して，東北大学乾・鈴木研究室の[清野舜](https://butsugiri.github.io/)さんに問題の構想と校閲，[横井祥](http://www.cl.ecei.tohoku.ac.jp/~yokoi/)さんと[高橋諒](https://reiyw.com/)に問題の構想に関して協力して頂きました
++ 2020年版の問題の改定に際して，東北大学乾・鈴木研究室の[清野舜](https://butsugiri.github.io/)さんに問題の構想と校閲，[横井祥](http://www.cl.ecei.tohoku.ac.jp/~yokoi/)さんと[高橋諒](https://reiyw.com/)さんに問題の構想に関して協力して頂きました
 
 ## 連絡先
 
