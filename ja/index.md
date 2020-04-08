@@ -63,7 +63,7 @@ feature_row:
     url: "/ja/ch05.html"
   - image_path: assets/images/ch06.png
     alt: "placeholder image 2"
-    title: "第6章: 機械学習の基礎"
+    title: "第6章: 機械学習"
     excerpt: "文書分類器を機械学習で構築します．さらに，機械学習手法の評価方法を学びます．"
     url: "/ja/ch06.html"
   - image_path: assets/images/ch07.png
