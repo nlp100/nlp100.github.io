@@ -53,8 +53,8 @@ sidebar_en:
 #    url: /en/ch07.html
 #  - title: "Ch 8: Neural networks"
 #    url: /en/ch08.html
-  - title: "Ch 9: RNN and CNN"
-    url: /en/ch09.html
+#  - title: "Ch 9: RNN and CNN"
+#    url: /en/ch09.html
 #  - title: "Ch 10: Machine translation"
 #    url: /en/ch10.html
   - title: "About NLP 100 Exercise"
