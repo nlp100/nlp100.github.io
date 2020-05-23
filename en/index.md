@@ -58,7 +58,7 @@ feature_row:
     title: "4: POS tagging"
     excerpt: "Obtain statistics of the word usage of the novel, \"Alice's Adventures in Wonderland,\" by applying a part-of-speech tagger"
     url: "/en/ch04.html"
-  - image_path: assets/images/ch05.png
+  - image_path: assets/images/ch05.en.png
     alt: "placeholder image 2"
     title: "5: Syntactic parsing"
     excerpt: "Experience analysis and access to dependency trees by applying a dependency parser to the novel, \"Alice's Adventures in Wonderland.\""
