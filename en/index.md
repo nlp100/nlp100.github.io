@@ -35,8 +35,6 @@ script_html: |
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=535222267422576&autoLogAppEvents=1"></script>
 
-intro: 
-  - excerpt: '**Currently, we completed translations for Problems 01 to 39. We will upload Problems 40 to 99 when translations are ready.**'
 feature_row:
   - image_path: assets/images/ch01.png
     alt: "placeholder image 1"
@@ -48,7 +46,7 @@ feature_row:
     title: "2: UNIX commands"
     excerpt: "Experience useful UNIX tools for research and data analysis. Improve programming skills and realize the ecosystem of existing tools by implementing these tools."
     url: "/en/ch02.html"
-  - image_path: assets/images/ch03.png
+  - image_path: assets/images/ch03.en.png
     alt: "placeholder image 2"
     title: "3: Regular Expression"
     excerpt: "Extract various information and knowledge by applying regular expressions to Wikipedia markups."
@@ -89,8 +87,6 @@ feature_row:
     excerpt: "Build a neural machine translation by using an existing tool."
     url: "/en/ch10.html"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
