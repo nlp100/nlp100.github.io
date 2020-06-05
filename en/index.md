@@ -86,7 +86,7 @@ feature_row:
   - image_path: assets/images/ch10.png
     alt: "placeholder image 2"
     title: "10: Machine translation"
-    excerpt: "Build a neural machine translation by usnig an existing tool."
+    excerpt: "Build a neural machine translation by using an existing tool."
     url: "/en/ch10.html"
 ---
 

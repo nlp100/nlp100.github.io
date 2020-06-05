@@ -32,9 +32,9 @@ sidebar: {nav: "sidebar_en"}
 
 ## About NLP 100 Exercise
 
-+ NLP 100 Exercise was developped by Naoaki Okazaki in 2011-2012 for the use in a study group for programming in [Inui-Okazaki Laboratory](http://www.cl.ecei.tohoku.ac.jp/) (currently, [Inui-Suzuki Laboratory](https://www.nlp.ecei.tohoku.ac.jp/)).
++ NLP 100 Exercise was developed by Naoaki Okazaki in 2011-2012 for the use in a study group for programming in [Inui-Okazaki Laboratory](http://www.cl.ecei.tohoku.ac.jp/) (currently, [Inui-Suzuki Laboratory](https://www.nlp.ecei.tohoku.ac.jp/)).
 + The format where new students for studying NLP solve 100 assignments was inspired by the practice in the laboratory of [Prof Satoshi Sato](https://sites.google.com/site/sslabnagoya/), Nagoya University.
-+ Many thanks go to [Shun Kiyono](https://butsugiri.github.io/) (Tohoku University) for suggestions and revisions, and [Sho Yokoi](http://www.cl.ecei.tohoku.ac.jp/~yokoi/) (Tohoku University) and [Ryo Takahashi](https://reiyw.com/) (Tohoku University) for suggestions in developping NLP 100 Exercise 2020.
++ Many thanks go to [Shun Kiyono](https://butsugiri.github.io/) (Tohoku University) for suggestions and revisions, and [Sho Yokoi](http://www.cl.ecei.tohoku.ac.jp/~yokoi/) (Tohoku University) and [Ryo Takahashi](https://reiyw.com/) (Tohoku University) for suggestions in developing NLP 100 Exercise 2020.
 
 ## Contact
 
