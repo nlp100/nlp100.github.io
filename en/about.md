@@ -1,6 +1,6 @@
 ---
 title: "About NLP 100 Exercise"
-date: 2020-04-06 10:34:06 UTC
+date: 2020-06-05 22:13:07 +0900
 layout: single
 toc: true
 lang: en

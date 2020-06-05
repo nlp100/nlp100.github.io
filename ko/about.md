@@ -1,6 +1,6 @@
 ---
 title: "100문제로 두드려 보는 자연어처리에 대하여"
-date: 2020-04-16 23:00:09 UTC
+date: 2020-04-17 01:58:19 +0900
 layout: single
 toc: true
 lang: ko

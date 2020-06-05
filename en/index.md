@@ -1,7 +1,7 @@
 ---
 title: "NLP 100 Exercise 2020"
 lang: en
-date: 2020-04-06 23:00:57 UTC
+date: 2020-06-05 22:30:37 +0900
 layout: splash
 header:
   overlay_color: "#000"

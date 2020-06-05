@@ -1,7 +1,7 @@
 ---
 title: "言語処理100本ノック 2020"
 lang: ja
-date: 2020-04-06 22:22:38 UTC
+date: 2020-05-13 09:32:09 +0900
 layout: splash
 header:
   overlay_color: "#000"

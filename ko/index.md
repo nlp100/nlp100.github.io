@@ -1,7 +1,7 @@
 ---
 title: "100문제로 두드려 보는 자연어처리 2020"
 lang: ko
-date: 2020-04-06 22:22:38 UTC
+date: 2020-04-17 01:58:19 +0900
 layout: splash
 header:
   overlay_color: "#000"
