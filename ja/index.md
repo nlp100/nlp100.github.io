@@ -1,14 +1,14 @@
 ---
 title: "言語処理100本ノック 2020"
 lang: ja
-date: 2020-05-13 09:32:09 +0900
+date: 2020-06-06 12:01:46 +0900
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   og_image: /assets/images/nlp100.jpg
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
-excerpt: "言語処理100本ノックは，実用的でワクワクするような課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です． [詳細](about.html){: .btn .btn--primary .btn--small}"
+excerpt: "言語処理100本ノックは，実用的でワクワクするような課題に取り組みながら，プログラミング，データ分析，研究のスキルを楽しく習得することを目指した問題集です． [詳細](about.html){: .btn .btn--info .btn--small}"
 button_html: |
   <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">ツイート</a> <div class="fb-like" data-href="https://nlp100.github.io/ja/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
