@@ -1,6 +1,6 @@
 ---
 title: "100문제로 두드려 보는 자연어처리에 대하여"
-date: 2020-04-17 01:58:19 +0900
+date: 2020-06-07 10:32:21 +0900
 layout: single
 toc: true
 lang: ko
@@ -8,6 +8,35 @@ sidebar: {nav: "sidebar_ko"}
 ---
 
 ## 업데이트 이력
+
+### 2020-06-08
+[100문제로 두드려 보는 자연어처리 2020 Rev 1](http://nlp100.github.io/) 공개
+
++ 영문판 완성 :tada:
+  + 제5장에서 제10장 전반에 걸쳐 [키요노 슌](https://butsugiri.github.io/) 님, [Benjamin Heinzerling](https://bheinzerling.github.io/)님, Ana Brassard님, [Paul Reisert](http://www.cl.ecei.tohoku.ac.jp/~preisert/)님의 도움을 받았습니다.
+  + 문제07 맞춤법 교정 ([#12](https://github.com/nlp100/nlp100.github.io/pull/12))
+  + 제4장에서 품사 태그가 달린 데이터 추가 ([#13](https://github.com/nlp100/nlp100.github.io/issues/13))
+  + 문제 38개 내용 교정 ([#14](https://github.com/nlp100/nlp100.github.io/issues/14))
+  + 문제08 내용 교정 ([#24](https://github.com/nlp100/nlp100.github.io/pull/24))
+  + 문제 18번 번역 오류 수정
+  + 기타 맞춤법 및 스타일 수정
++ 한국어판 공개 (39번 문제까지 번역 완료) :sparkles:
+  + 한국어 번역은 [문상환](https://sangwhan.com/)님의 도움을 받았습니다.
++ 일본어판에 버그 다수 수정 :sweat_smile:
+  + 제8장 표기 수정 ([#1](https://github.com/nlp100/nlp100.github.io/pull/1))
+  + 문제 49번 수식 표시 수정 ([#2](https://github.com/nlp100/nlp100.github.io/pull/2))
+  + 제6장 제목 수정 ([#2](https://github.com/nlp100/nlp100.github.io/pull/2))
+  + 제3장 데이터 오류 수정 ([#6](https://github.com/nlp100/nlp100.github.io/issues/6))
+  + 문제 51번 수정 ([#7](https://github.com/nlp100/nlp100.github.io/issues/7))
+  + 문제 50와 51 내용 교정 ([#8](https://github.com/nlp100/nlp100.github.io/pull/8))
+  + 문제 75번 표기 수정 ([#9](https://github.com/nlp100/nlp100.github.io/pull/9))
+  + 제5장의 링크 수정 ([#16](https://github.com/nlp100/nlp100.github.io/pull/16))
+  + 문제 04번 내용 교정 ([#18](https://github.com/nlp100/nlp100.github.io/pull/18))
+  + 제5장 의존성 파서 오류가 없는 예제 텍스트로 변경 ([#19](https://github.com/nlp100/nlp100.github.io/issues/19))
+  + 문제 69번 내용 교정 ([#21](https://github.com/nlp100/nlp100.github.io/issues/21))
+  + 문제 71번 내용 교정 ([#22](https://github.com/nlp100/nlp100.github.io/issues/22))
+
+[Issues](https://github.com/nlp100/nlp100.github.io/issues)를 통해서 문제점을 보고해주신 여러분 및 [Pull Requests](https://github.com/nlp100/nlp100.github.io/pulls)를 보내주신 여러분께 감사드립니다. :pray:
 
 ### 2020-04-06
 + [언어처리 100개 노크] 2020] (http://nlp100.github.io/) 공개

@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   og_image: /assets/images/nlp100.jpg
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
-excerpt: "100문제로 두드려 보는 자연어처리는, 실용적이고 재미있는 과제들을 풀어나가면서, 프로그래밍, 데이터 분석, 연구 능력을 즐겁게 습득하는 것을 목표로한 문제집입니다.  [자세한](about.html){: .btn .btn--info .btn--small}"
+excerpt: "100문제로 두드려 보는 자연어처리는, 실용적이고 재미있는 과제들을 풀어나가면서, 프로그래밍, 데이터 분석, 연구 능력을 즐겁게 습득하는 것을 목표로한 문제집입니다. [자세히 보기](about.html){: .btn .btn--info .btn--small}"
 button_html: |
   <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
