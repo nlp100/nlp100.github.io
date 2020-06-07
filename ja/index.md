@@ -1,7 +1,7 @@
 ---
-title: "言語処理100本ノック 2020"
+title: "言語処理100本ノック 2020 (Rev 1)"
 lang: ja
-date: 2020-06-06 12:01:46 +0900
+date: 2020-06-07 10:51:48 +0900
 layout: splash
 header:
   overlay_color: "#000"
