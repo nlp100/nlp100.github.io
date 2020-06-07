@@ -1,7 +1,7 @@
 ---
-title: "NLP 100 Exercise 2020"
+title: "NLP 100 Exercise 2020 (Rev 1)"
 lang: en
-date: 2020-06-06 12:01:46 +0900
+date: 2020-06-07 11:28:27 +0900
 layout: splash
 header:
   overlay_color: "#000"
@@ -10,10 +10,10 @@ header:
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
 excerpt: "NLP 100 Exercise is a bootcamp designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments. [Read more](about.html){: .btn .btn--info .btn--small}"
 button_html: |
-  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+  <div class="pinterest"><a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a></div> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
-  <!-- Hatena bookmark-->
-  <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  <!-- Pinterest -->
+  <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
   <!-- Twitter -->
   <script>window.twttr = (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0],
