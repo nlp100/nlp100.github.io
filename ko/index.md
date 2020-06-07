@@ -1,7 +1,7 @@
 ---
-title: "100문제로 두드려 보는 자연어처리 2020"
+title: "100문제로 두드려 보는 자연어처리 2020 (Rev 1)"
 lang: ko
-date: 2020-06-06 12:01:31 +0900
+date: 2020-06-07 12:04:18 +0900
 layout: splash
 header:
   overlay_color: "#000"
