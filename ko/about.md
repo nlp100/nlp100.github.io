@@ -39,14 +39,14 @@ sidebar: {nav: "sidebar_ko"}
 [Issues](https://github.com/nlp100/nlp100.github.io/issues)를 통해서 문제점을 보고해주신 여러분 및 [Pull Requests](https://github.com/nlp100/nlp100.github.io/pulls)를 보내주신 여러분께 감사드립니다. :pray:
 
 ### 2020-04-06
-+ [언어처리 100개 노크] 2020] (http://nlp100.github.io/) 공개
++ [100문제로 두드려 보는 자연어처리 2020](http://nlp100.github.io/) 공개
 + 딥 뉴럴 네트워크 관련 문제 추가
 + 다국어 지원
 + 영문판 공개(39번까지 번역 완료)
 + 구 제6장(영어 텍스트 처리) 영문판으로 이동
 
 ### 2015-03-12
-+ [언어처리 100개 노크] 2015] (http://www.cl.ecei.tohoku.ac.jp/nlp100/) 공개
++ [언어처리 100개 노크 2015](http://www.cl.ecei.tohoku.ac.jp/nlp100/) 공개
 + 단어 분산 표현 관련 문제 추가
 + 연습용 데이터를 재배포 가능한 데이터셋으로 변경
 + 보다 실용적인 소재로 개선
