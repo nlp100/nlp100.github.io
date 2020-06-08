@@ -1,19 +1,19 @@
 ---
-title: "NLP 100 Exercise 2020"
+title: "NLP 100 Exercise 2020 (Rev 1)"
 lang: en
-date: 2020-04-06 23:00:57 UTC
+date: 2020-06-07 11:28:27 +0900
 layout: splash
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   og_image: /assets/images/nlp100.jpg
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
-excerpt: "NLP 100 Exercise is a bootcamp designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments."
+excerpt: "NLP 100 Exercise is a bootcamp designed for learning skills for programming, data analysis, and research activities by taking practical and exciting assignments. [Read more](about.html){: .btn .btn--info .btn--small}"
 button_html: |
-  <a href="https://b.hatena.ne.jp/entry/" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="en" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+  <div class="pinterest"><a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a></div> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
-  <!-- Hatena bookmark-->
-  <script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+  <!-- Pinterest -->
+  <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
   <!-- Twitter -->
   <script>window.twttr = (function(d, s, id) {
     var js, fjs = d.getElementsByTagName(s)[0],
@@ -35,8 +35,6 @@ script_html: |
   <div id="fb-root"></div>
   <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v6.0&appId=535222267422576&autoLogAppEvents=1"></script>
 
-intro: 
-  - excerpt: '**Currently, we completed translations for Problems 01 to 39. We will upload Problems 40 to 99 when translations are ready.**'
 feature_row:
   - image_path: assets/images/ch01.png
     alt: "placeholder image 1"
@@ -48,7 +46,7 @@ feature_row:
     title: "2: UNIX commands"
     excerpt: "Experience useful UNIX tools for research and data analysis. Improve programming skills and realize the ecosystem of existing tools by implementing these tools."
     url: "/en/ch02.html"
-  - image_path: assets/images/ch03.png
+  - image_path: assets/images/ch03.en.png
     alt: "placeholder image 2"
     title: "3: Regular Expression"
     excerpt: "Extract various information and knowledge by applying regular expressions to Wikipedia markups."
@@ -58,7 +56,7 @@ feature_row:
     title: "4: POS tagging"
     excerpt: "Obtain statistics of the word usage of the novel, \"Alice's Adventures in Wonderland,\" by applying a part-of-speech tagger"
     url: "/en/ch04.html"
-  - image_path: assets/images/ch05.png
+  - image_path: assets/images/ch05.en.png
     alt: "placeholder image 2"
     title: "5: Syntactic parsing"
     excerpt: "Experience analysis and access to dependency trees by applying a dependency parser to the novel, \"Alice's Adventures in Wonderland.\""
@@ -86,12 +84,8 @@ feature_row:
   - image_path: assets/images/ch10.png
     alt: "placeholder image 2"
     title: "10: Machine translation"
-    excerpt: "Build a neural machine translation by usnig an existing tool."
+    excerpt: "Build a neural machine translation by using an existing tool."
     url: "/en/ch10.html"
 ---
 
-{% include feature_row id="intro" type="center" %}
-
 {% include feature_row %}
-
-<p class="text-center"><a href="about.html" class="btn btn--primary">About NLP 100 Exercise</a></p>

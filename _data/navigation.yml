@@ -4,13 +4,16 @@ titles:
     title: "NLP 100 Exercise"
   ja:
     title: "言語処理100本ノック"
+  ko:
+    title: "100문제로 두드려 보는 자연어처리"
 
 languages:
   - id: "en"
     title: "English"
   - id: "ja"
     title: "日本語"
-
+  - id: "ko"
+    title: "한국어"
 
 sidebar_ja:
   - title: "第1章: 準備運動"
@@ -45,17 +48,41 @@ sidebar_en:
     url: /en/ch03.html
   - title: "Ch 4: POS tagging"
     url: /en/ch04.html
-#  - title: "Ch 5: Syntactic parsing"
-#    url: /en/ch05.html
-#  - title: "Ch 6: Machine learning"
-#    url: /en/ch06.html
-#  - title: "Ch 7: Word embeddings"
-#    url: /en/ch07.html
-#  - title: "Ch 8: Neural networks"
-#    url: /en/ch08.html
-#  - title: "Ch 9: RNN and CNN"
-#    url: /en/ch09.html
-#  - title: "Ch 10: Machine translation"
-#    url: /en/ch10.html
+  - title: "Ch 5: Syntactic parsing"
+    url: /en/ch05.html
+  - title: "Ch 6: Machine learning"
+    url: /en/ch06.html
+  - title: "Ch 7: Word embeddings"
+    url: /en/ch07.html
+  - title: "Ch 8: Neural networks"
+    url: /en/ch08.html
+  - title: "Ch 9: RNN and CNN"
+    url: /en/ch09.html
+  - title: "Ch 10: Machine translation"
+    url: /en/ch10.html
   - title: "About NLP 100 Exercise"
     url: /en/about.html
+
+sidebar_ko:
+  - title: "제1장: 준비 운동"
+    url: /ko/ch01.html
+  - title: "제2장: UNIX 명령어"
+    url: /ko/ch02.html
+  - title: "제3장: 정규 표현식"
+    url: /ko/ch03.html
+  - title: "제4장: 형태소 분석"
+    url: /ko/ch04.html
+  # - title: "제5장: 구문 분석"
+  #   url: /ko/ch05.html
+  # - title: "제6장: 기계 학습"
+  #   url: /ko/ch06.html
+  # - title: "제7장: 단어 벡터"
+  #   url: /ko/ch07.html
+  # - title: "제8장: 신경망"
+  #   url: /ko/ch08.html
+  # - title: "제9장: RNN과 CNN"
+  #   url: /ko/ch09.html
+  # - title: "제10장: 기계 번역"
+  #   url: /ko/ch10.html
+  - title : "100문제로 두드려 보는 자연어처리에 대하여"
+    url: /ko/about.html
