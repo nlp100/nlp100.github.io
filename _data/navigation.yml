@@ -6,6 +6,8 @@ titles:
     title: "言語処理100本ノック"
   ko:
     title: "100문제로 두드려 보는 자연어처리"
+  zh:
+    title: "自然语言处理100练"
 
 languages:
   - id: "en"
@@ -14,6 +16,8 @@ languages:
     title: "日本語"
   - id: "ko"
     title: "한국어"
+  - id: "zh"
+    title: "中文"
 
 sidebar_ja:
   - title: "第1章: 準備運動"
@@ -86,3 +90,27 @@ sidebar_ko:
   #   url: /ko/ch10.html
   - title : "100문제로 두드려 보는 자연어처리에 대하여"
     url: /ko/about.html
+
+sidebar_zh:
+  - title: "第1章: 热身运动"
+    url: /zh/ch01.html
+  - title: "第2章: UNIX 指令"
+    url: /zh/ch02.html
+  - title: "第3章: 正则表达式"
+    url: /zh/ch03.html
+  - title: "第4章: 词性(POS)标注"
+    url: /zh/ch04.html
+  - title: "第5章: 依存关系分析"
+    url: /zh/ch05.html
+  - title: "第6章: 机器学习"
+    url: /zh/ch06.html
+  - title: "第7章: 词向量"
+    url: /zh/ch07.html
+  - title: "第8章: 神经网络"
+    url: /zh/ch08.html
+  - title: "第9章: RNN 与 CNN"
+    url: /zh/ch09.html
+  - title: "第10章: 机器翻译"
+    url: /zh/ch10.html
+  - title: "关于自然语言处理100练"
+    url: /zh/about.html
