@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   og_image: /assets/images/nlp100.jpg
   overlay_image: /assets/images/blue-and-red-galaxy-artwork-1629236.jpg
-excerpt: "自然语言处理入门100练，是一个为该领域初学者设计的问题集，旨在通过完成实际且令人兴奋的课题来帮助他们掌握该领域编程、数据分析与进行研究活动所需的技能。[详细](about.html){: .btn .btn--info .btn--small}"
+excerpt: "自然语言处理入门100练，是一个为该领域初学者设计的问题集，旨在通过完成实用且令人兴奋的课题来帮助他们掌握该领域编程、数据分析与进行研究活动所需的技能。[详细](about.html){: .btn .btn--info .btn--small}"
 button_html: |
   <div class="pinterest"><a data-pin-do="buttonBookmark" data-pin-tall="true" href="https://www.pinterest.com/pin/create/button/"></a></div> <a class="twitter-share-button" href="https://twitter.com/intent/tweet">Tweet</a> <div class="fb-like" data-href="https://nlp100.github.io/en/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
 script_html: |
@@ -41,11 +41,11 @@ feature_row:
     title: "第1章: 热身运动"
     excerpt: "处理字符串与文本数据，同时复习编程语言中重要的进阶话题。"
     url: "/zh/ch01.html"
-  # - image_path: assets/images/ch02.png
-  #   alt: "placeholder image 2"
-  #   title: "第2章: UNIX 指令"
-  #   excerpt: "体验在研究与数据分析中实用的UNIX工具。透过这一过程提升编程技能并对现有工具链的生态有所感知。"
-  #   url: "/zh/ch02.html"
+  - image_path: assets/images/ch02.png
+    alt: "placeholder image 2"
+    title: "第2章: UNIX 指令"
+    excerpt: "体验在研究与数据分析中实用的UNIX工具。透过这一过程提升编程技能并对现有工具链的生态有所感知。"
+    url: "/zh/ch02.html"
   # - image_path: assets/images/ch03.en.png
   #   alt: "placeholder image 2"
   #   title: "第3章: 正则表达式"
