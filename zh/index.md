@@ -46,11 +46,11 @@ feature_row:
     title: "第2章: UNIX 指令"
     excerpt: "体验在研究与数据分析中实用的UNIX工具。透过这一过程提升编程技能并对现有工具链的生态有所感知。"
     url: "/zh/ch02.html"
-  # - image_path: assets/images/ch03.en.png
-  #   alt: "placeholder image 2"
-  #   title: "第3章: 正则表达式"
-  #   excerpt: "使用正则表达式从Wikipedia标签中抽取多种信息与知识。"
-  #   url: "/zh/ch03.html"
+  - image_path: assets/images/ch03.en.png
+    alt: "placeholder image 2"
+    title: "第3章: 正则表达式"
+    excerpt: "使用正则表达式从Wikipedia标签中抽取多种信息与知识。"
+    url: "/zh/ch03.html"
   # - image_path: assets/images/ch04.png
   #   alt: "placeholder image 1"
   #   title: "第4章: 词性(POS)标注"
