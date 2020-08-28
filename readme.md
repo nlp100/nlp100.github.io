@@ -1,12 +1,8 @@
-NLP 100 Exercise 2020
-=====================
+# NLP 100 Exercise 2020
 
 This is the canonical repository for NLP 100 Exercise 2020.
 
-Environment Setup
------------------
-
-(Windows and macOS instructions to come later)
+## Environment Setup
 
 For Ubuntu/Debian users, the following dependencies need to be installed.
 
@@ -31,12 +27,40 @@ For ChromeOS users, as Jekyll will be running inside a Crostini container, to ac
 
     jekyll serve --host 0.0.0.0
 
-License
--------
+### macOS
+
+If you don't have the basic developer toolkit installed, you need to run:
+
+    xcode-select --install
+
+(For macOS version < 10.15) The Ruby 2.6 has integrated into macOS 10.15. You may have to manually install the latest version of Ruby if you are using the previous version of macOS. Kindly run the following command to install it through [Homebrew](https://brew.sh/):
+    
+    # Skip this line if you have installed Homebrew
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
+    brew install ruby
+
+If you are using macOS built-in Ruby, run the following commands to install using local mode: (it may be risky to use global mode to install due to macOS SIP and potential permission problems)
+
+    gem install --user-install bundler jekyll
+    bundle install
+
+Last but not least, remember to configure your shell environment. Please note that you may change `PATH=` and `.zshrc` according to your environment.
+    
+    # For built-in Ruby and zsh
+    echo 'export PATH="$HOME/.gem/ruby/X.X.0/bin:$PATH"' >> ~/.zshrc
+    source ~/.zshrc
+
+The rest steps are the same as the Ubuntu/Debian part.
+
+### Windows
+
+Install Ubuntu on Windows Subsystem for Linux, and follow the same procedure for Ubuntu.
+
+## License
 
 Refer to the [LICENSE](LICENSE) file for details.
 
-Contact
--------
+## Contact
 
 We welcome feedback/suggestions as issues and pull requests in the GitHub repository. If you would like to contact us about a matter aside from feedback/suggestions, please send an email to nlp100 at nlp.c.titech.ac.jp.
