@@ -51,11 +51,11 @@ feature_row:
     title: "第3章: 正则表达式"
     excerpt: "使用正则表达式从Wikipedia标签中抽取多种信息与知识。"
     url: "/zh/ch03.html"
-  # - image_path: assets/images/ch04.png
-  #   alt: "placeholder image 1"
-  #   title: "第4章: 词性(POS)标注"
-  #   excerpt: "对《Alice's Adventures in Wonderland》的文本使用词性(Part-Of-Speech)标注器，并获取篇章中单词的统计学信息。"
-  #   url: "/zh/ch04.html"
+  - image_path: assets/images/ch04.png
+    alt: "placeholder image 1"
+    title: "第4章: 词性(POS)标注"
+    excerpt: "对《Alice's Adventures in Wonderland》的文本使用词性(Part-Of-Speech)标注器，并获取篇章中词语的统计学信息。"
+    url: "/zh/ch04.html"
   # - image_path: assets/images/ch05.en.png
   #   alt: "placeholder image 2"
   #   title: "第5章: 依存关系解析"
