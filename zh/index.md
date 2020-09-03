@@ -56,11 +56,11 @@ feature_row:
     title: "第4章: 词性(POS)标注"
     excerpt: "对《Alice's Adventures in Wonderland》的文本使用词性(Part-Of-Speech)标注器，并获取篇章中词语的统计学信息。"
     url: "/zh/ch04.html"
-  # - image_path: assets/images/ch05.en.png
-  #   alt: "placeholder image 2"
-  #   title: "第5章: 依存关系解析"
-  #   excerpt: "通过将依存关系解析器应用于小说《Alice's Adventures in Wonderland》，体验创建并分析依存关系树。""
-  #   url: "/zh/ch05.html"
+  - image_path: assets/images/ch05.en.png
+    alt: "placeholder image 2"
+    title: "第5章: 依存关系解析"
+    excerpt: "通过将依存关系解析器应用于小说《Alice's Adventures in Wonderland》，体验创建并分析依存关系树。"
+    url: "/zh/ch05.html"
   # - image_path: assets/images/ch06.png
   #   alt: "placeholder image 2"
   #   title: "第6章: 机器学习"
