@@ -61,11 +61,11 @@ feature_row:
     title: "第5章: 依存关系解析"
     excerpt: "通过将依存关系解析器应用于小说《Alice's Adventures in Wonderland》，体验创建并分析依存关系树。"
     url: "/zh/ch05.html"
-  # - image_path: assets/images/ch06.png
-  #   alt: "placeholder image 2"
-  #   title: "第6章: 机器学习"
-  #   excerpt: "构造一个基于机器学习方法的文本分类器. 此外，学习机器学习中的评估方法。"
-  #   url: "/zh/ch06.html"
+  - image_path: assets/images/ch06.png
+    alt: "placeholder image 2"
+    title: "第6章: 机器学习"
+    excerpt: "构造一个基于机器学习方法的文本分类器. 此外，学习机器学习中的评估方法。"
+    url: "/zh/ch06.html"
   # - image_path: assets/images/ch07.png
   #   alt: "placeholder image 1"
   #   title: "第7章: 词向量"
