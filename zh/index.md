@@ -66,10 +66,10 @@ feature_row:
     title: "第6章: 机器学习"
     excerpt: "构造一个基于机器学习方法的文本分类器. 此外，学习机器学习中的评估方法。"
     url: "/zh/ch06.html"
-  # - image_path: assets/images/ch07.png
-  #   alt: "placeholder image 1"
-  #   title: "第7章: 词向量"
-  #   excerpt: "通过词语相似度与单词类比的计算，学习词向量的处理方式。此外，体验聚类算法与词向量的可视化。"
+  - image_path: assets/images/ch07.png
+    alt: "placeholder image 1"
+    title: "第7章: 词向量"
+    excerpt: "通过词语相似度与单词类比的计算，学习词向量的处理方式。此外，体验聚类算法与词向量的可视化。"
   #   url: "/zh/ch07.html"
   # - image_path: assets/images/ch08.png
   #   alt: "placeholder image 2"
