@@ -70,12 +70,12 @@ feature_row:
     alt: "placeholder image 1"
     title: "第7章: 词向量"
     excerpt: "通过词语相似度与单词类比的计算，学习词向量的处理方式。此外，体验聚类算法与词向量的可视化。"
-  #   url: "/zh/ch07.html"
-  # - image_path: assets/images/ch08.png
-  #   alt: "placeholder image 2"
-  #   title: "第8章: 神经网络"
-  #   excerpt: "学习深度学习框架的使用方法，并实现一个基于神经网络的文本分类器。"
-  #   url: "/zh/ch08.html"
+    url: "/zh/ch07.html"
+  - image_path: assets/images/ch08.png
+    alt: "placeholder image 2"
+    title: "第8章: 神经网络"
+    excerpt: "学习深度学习框架的使用方法，并实现一个基于神经网络的文本分类器。"
+    url: "/zh/ch08.html"
   # - image_path: assets/images/ch09.png
   #   alt: "placeholder image 2"
   #   title: "第9章: RNN 与 CNN"
