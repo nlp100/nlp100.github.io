@@ -76,16 +76,16 @@ feature_row:
     title: "第8章: 神经网络"
     excerpt: "学习深度学习框架的使用方法，并实现一个基于神经网络的文本分类器。"
     url: "/zh/ch08.html"
-  # - image_path: assets/images/ch09.png
-  #   alt: "placeholder image 2"
-  #   title: "第9章: RNN 与 CNN"
-  #   excerpt: "使用深度学习框架实现循环神经网络(Recurrent Neural Networks, RNNs)与卷积神经网络(Convolutional Neural Networks, CNNs)。"
-  #   url: "/zh/ch09.html"
-  # - image_path: assets/images/ch10.png
-  #   alt: "placeholder image 2"
-  #   title: "第10章: 机器翻译"
-  #   excerpt: "利用现有的工具，构建神经机器翻译模型。"
-  #   url: "/zh/ch10.html"
+  - image_path: assets/images/ch09.png
+    alt: "placeholder image 2"
+    title: "第9章: RNN 与 CNN"
+    excerpt: "使用深度学习框架实现循环神经网络(Recurrent Neural Networks, RNNs)与卷积神经网络(Convolutional Neural Networks, CNNs)。"
+    url: "/zh/ch09.html"
+  - image_path: assets/images/ch10.png
+    alt: "placeholder image 2"
+    title: "第10章: 机器翻译"
+    excerpt: "利用现有的工具，构建神经机器翻译模型。"
+    url: "/zh/ch10.html"
 ---
 
 {% include feature_row %}
