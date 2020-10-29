@@ -9,6 +9,11 @@ sidebar: {nav: "sidebar_en"}
 
 ## Change Log
 
+### 2020-10-29
+
++ Completed Chinese translation :tada:
+  + All Chapters were translated by Runzhe Zhan and Youmi Ma.
+
 ### 2020-06-08
 Released [NLP 100 Exercise 2020 Rev 1](http://nlp100.github.io/).
 

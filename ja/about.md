@@ -9,6 +9,10 @@ sidebar: {nav: "sidebar_ja"}
 
 ## 更新履歴
 
+### 2020-10-29
+
++ 中国語版の完成　:tada:
+  + 中国語への翻訳はRunzhe Zhanさん，Youmi Maさんにご協力頂きました．
 ### 2020-06-08
 [言語処理100本ノック 2020 Rev 1](http://nlp100.github.io/)を公開
 
