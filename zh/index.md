@@ -1,7 +1,7 @@
 ---
-title: "自然语言处理入门100练 2020 (Rev 1)"
+title: "自然语言处理入门100练 2020 (Rev 2)"
 lang: zh
-date: 2020-08-26 11:09:17 +0800
+date: 2020-12-25 22:58:17 +0800
 layout: splash
 header:
   overlay_color: "#000"
