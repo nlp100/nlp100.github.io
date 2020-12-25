@@ -1,7 +1,7 @@
 ---
-title: "NLP 100 Exercise 2020 (Rev 1)"
+title: "NLP 100 Exercise 2020 (Rev 2)"
 lang: en
-date: 2020-06-07 11:28:27 +0900
+date: 2020-12-25 22:58:27 +0900
 layout: splash
 header:
   overlay_color: "#000"
