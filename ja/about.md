@@ -9,6 +9,14 @@ sidebar: {nav: "sidebar_ja"}
 
 ## 更新履歴
 
+### 2020-12-25
+[言語処理100本ノック 2020 Rev 2](http://nlp100.github.io/)を公開 :christmas_tree:
+
++ 中国語版の完成　:tada:
+  + 中国語への翻訳はRunzhe Zhanさん，Youmi Maさんにご協力頂きました．
++ 日本語版におけるバグ修正
+  + 問題32における用語の修正（[#28](https://github.com/nlp100/nlp100.github.io/issues/28)）
+
 ### 2020-06-08
 [言語処理100本ノック 2020 Rev 1](http://nlp100.github.io/)を公開
 

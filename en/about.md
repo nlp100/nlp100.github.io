@@ -9,6 +9,14 @@ sidebar: {nav: "sidebar_en"}
 
 ## Change Log
 
+### 2020-12-25
+Released [NLP 100 Exercise 2020 Rev 2](http://nlp100.github.io/). :christmas_tree:
+
++ Completed Chinese translation :tada:
+  + All Chapters were translated by Runzhe Zhan and Youmi Ma.
++ A bug fix in the Japanese version
+  + Revised a word usage in the problem 32 ([#28](https://github.com/nlp100/nlp100.github.io/issues/28))
+
 ### 2020-06-08
 Released [NLP 100 Exercise 2020 Rev 1](http://nlp100.github.io/).
 
